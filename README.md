@@ -42,6 +42,13 @@ Skills are automatically triggered based on file types and keywords in your requ
 | **mcp-builder** | Build MCP servers (Python/TypeScript) | "MCP server", API integration |
 | **skill-creator** | Create new agent skills | "create a skill" |
 
+### Cloud & DevOps
+
+| Skill | Description | Triggers |
+|-------|-------------|----------|
+| **azure-devops** | Azure DevOps operations (Boards, Repos, Pipelines) | "Azure DevOps", "ADO", work items, sprints |
+| **azure-deploy** | Deploy apps and infrastructure to Azure | "deploy to Azure", "azd", "Azure CLI" |
+
 ### Collaboration
 
 | Skill | Description | Triggers |
@@ -83,6 +90,12 @@ Located in `skills/.curated/`:
 # Development
 "Build an MCP server for the GitHub API"
 "Create a new skill for my company's workflow"
+
+# Cloud & DevOps
+"Deploy my app to Azure using azd"
+"Create a work item in Azure DevOps"
+"List my Azure pipelines"
+"Provision Azure infrastructure with Bicep"
 ```
 
 ## Skill Structure

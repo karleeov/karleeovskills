@@ -1,0 +1,15 @@
+Proprietary License
+
+This skill is proprietary software. All rights reserved.
+
+You may use this skill for personal and commercial purposes with Claude Code
+and compatible AI assistants.
+
+You may not:
+- Redistribute, sell, or sublicense this skill
+- Remove or alter any proprietary notices
+- Use this skill to create derivative works for distribution
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
