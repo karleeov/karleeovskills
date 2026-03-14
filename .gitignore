@@ -1,0 +1,34 @@
+# Embedded git repositories
+awesome-agent-skills/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.skill
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
